@@ -13,7 +13,7 @@ If you want people to be able to contribute to your mod, explain how here.
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
-Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one.
+Installations. BG3 Mod Managers is by far the simplest method, and as such is recommended one. AMK.
 
 [![Compatible with Laughing Leader's Baldur's Gate 3 Mod Manager](https://i.imgur.com/qtdx2Yq.png)](https://github.com/LaughingLeader/BG3ModManager)
 
